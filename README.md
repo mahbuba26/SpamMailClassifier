@@ -41,11 +41,11 @@ There are 2 ways to download this repository:
    ```
 3. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/mahbuba26/SpamMailClassifier.git
    ```
 4. Enter the repository folder:
    ```bash
-   cd your-repo-name
+   cd SpamMailClassifier
    ```
 
 ## Method 2: Downloading ZIP file
